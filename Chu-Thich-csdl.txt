@@ -1,0 +1,117 @@
+
+dbo  CANLOXO (
+    /* thong tin bien ban */
+	 SoBienBan   nvarchar (50) NOT NULL primary key, /*số biên bản*/
+	 SoCan   int  NOT NULL,/*số cân*/
+	 TenCan   nvarchar (50) NULL,/*tên phương tiện*/
+	 Kieu   nchar (10) NULL,/*kiểu*/
+	 CapChinhXac   nchar (10) NULL,/*cấp chính xác*/
+	 NuocSX   nvarchar (50) NULL,/*nước sx*/
+	 NamSX   int  NULL,/*năm sx*/
+	 CheDoKD   nvarchar (50) NULL,/*chế độ kiểm định*/
+	 NgayKD   date  NULL,/*ngày kiểm định*/
+	 Max   float  NULL,/*mức cân lớn nhất*/
+	 Min   float  NULL,/*mức cân nhỏ nhất*/
+	 DoChia   int  NULL,/*giá trị độ chia*/
+	 DoChiaKiem   int  NULL,/*giá trị độ chia kiểm*/
+	 PPTH   nvarchar (50) NULL,/*phương pháp thực hiện*/
+	 DonViSD   nvarchar (50) NULL,/*đơn vị sử dụng*/
+	 KiemDinhVien   nvarchar (50) NULL,/*kiểm định viên*/
+	 SoTem   nvarchar (50) NULL,/*số tem*/
+	
+	/* kiểm tra ngoài và kỹ thuật */
+	 NhanMac   int  NULL,  /*Kiểm tra nhãn mác*/
+	 Tem   int  NULL,	/*Kiểm tra vị trí đóng dấu, dán tem kiểm định*/
+	 DayDu   int  NULL, /*Kiểm tra sự đầy đủ các thiết bị bộ phận của cân*/
+	 DongHoThangDo   int  NULL, /*Mặt đồng hồ, thang đo, kim chỉ*/
+	 BoPhan   int  NULL, /*Chi tiết và các bộ phận khác*/
+	 KiemtraNgoai   int  NULL, /*đánh giá*/
+	
+	/*Kiểm tra độ động*/
+	 DDCT1min   float  NULL,/*Chỉ thị I1 min*/
+	 DDCT105max   float  NULL,/*Chỉ thị I1 05max*/
+	 DDCT1max   float  NULL,/*Chỉ thị I1 max*/
+	 DDGTmin   float  NULL,/*Gia trọng min*/
+	 DDGT05max   float  NULL,/*Gia trọng 05 max*/
+	 DDGTmax   float  NULL,/*Gia trọng max*/
+	 DDCT2min   float  NULL,/*Chỉ thị I2 min*/
+	 DDCT205max   float  NULL,/*Chỉ thị I2 05 max*/
+	 DDCT2max   float  NULL,/*Chỉ thị I2 max*/
+	 DDmin   float  NULL,/*Độ động min*/
+	 DD05max   float  NULL,/*Độ động 05 max*/
+	 DDmax   float  NULL,/*Độ động max*/
+	 KiemtraDoDong   int  NULL, /*đánh giá*/
+	
+	
+	
+	
+	
+	
+	/*Kiểm tra lặp lại*/
+	
+	 LLCT1min   float  NULL,/*Chỉ thị I1 min*/
+	 LLCT105max   float  NULL,/*Chỉ thị I1 05 max*/
+	 LLCT1max   float  NULL,/*Chỉ thị I1 max*/
+	 LLCT2min   float  NULL,/*Chỉ thị I2 min*/
+	 LLCT205max   float  NULL,/*Chỉ thị I2 05 max*/
+	 LLCT2max   float  NULL,/*Chỉ thị I2 max*/
+	 LLCT3min   float  NULL,/*Chỉ thị I3 min*/
+	 LLCT305max   float  NULL,/*Chỉ thị I3 05 max*/
+	 LLCT3max   float  NULL,/*Chỉ thị I3 max*/
+	 LLCLLonmin   float  NULL,/*Chênh lệch lớn nhất min*/
+	 LLCLLon05max   float  NULL,/*Chênh lệch lớn nhất 05 max*/
+	 LLCLLonmax   float  NULL,/*Chênh lệch lớn nhất max*/
+	 LLCLCPmin   float  NULL,/*Chênh lệch cho phép min*/
+	 LLCLCP05max   float  NULL,/*Chênh lệch cho phép 05 max*/
+	 LLCLCPmax   float  NULL,/*Chênh lệch cho phép max*/
+	 KiemtraLapLai   int  NULL, /*đánh giá*/
+
+	/*Kiểm tra với tải trọng đặt lệch tâm*/
+	 LTMucTai   float  NULL,/*Mức tải L*/
+	 LTChiThiG   float  NULL,/*Chỉ thị G*/
+	 LTChiThiI1   float  NULL,/*Chỉ thị I*/
+	 LTChiThiI2   float  NULL,/*Chỉ thị I2*/
+	 LTChiThiI3   float  NULL,/*Chỉ thị I3*/
+	 LTChiThiI4   float  NULL,/*Chỉ thị I4*/
+	 LTCLLN   float  NULL,/*Chênh lệch lớn nhất*/
+	 LTCLCP   float  NULL,/*Chênh lệch cho phép */
+	 KiemtraLechTam   int  NULL, /*đánh giá*/
+
+
+	kiểm tra sai số
+	MTL1 Mức tải
+	MTL2
+	MTL3
+	MTL4
+	MTL5
+	CTCT1 Chỉ thị cân Tăng
+	CTCT2
+	CTCT3
+	CTCT4
+	CTCT5
+	CTCG1 Chỉ thị cân Giảm
+	CTCG2
+	CTCG3
+	CTCG4
+	SST1 Sai Số Tăng
+	SST2
+	SST3
+	SST4
+	SST5
+	SSG1 Sai Số Giảm
+	SSG2
+	SSG3
+	SSG4
+	DHS1 Độ hồi sai
+	DHS2
+	DHS3
+	DHS4
+	SSCP1 Sai Số cho phép
+	SSCP2
+	SSCP3
+	SSCP4
+	SSCP5
+	KiemtraSaiSo kết luận sai số
+	DiaChiSD   nvarchar (50) NULL,/*địa chỉ sử dụng*/
+	KetLuan Kết luận tổng thể
+	GCN mã giấy chứng  nhận

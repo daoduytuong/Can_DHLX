@@ -1,0 +1,99 @@
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\bin\Debug\DAO.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\bin\Debug\DAO.pdb
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\BUS\obj\Debug\BUS.pdb
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\bin\Debug\BUS.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\bin\Debug\BUS.pdb
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\bin\Debug\DAO.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\bin\Debug\DTO.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\bin\Debug\DAO.pdb
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\bin\Debug\DTO.pdb
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\obj\Debug\BUS.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\BUS\obj\Debug\BUS.pdb
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\bin\Debug\BUS.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\bin\Debug\BUS.pdb
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\bin\Debug\DAO.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\bin\Debug\DTO.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\bin\Debug\DAO.pdb
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\bin\Debug\DTO.pdb
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\obj\Debug\BUS.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\BUS\obj\Debug\BUS.pdb
+F:\Lập trình quản lý\DHLX\DHLX\BUS\bin\Debug\BUS.dll
+F:\Lập trình quản lý\DHLX\DHLX\BUS\bin\Debug\BUS.pdb
+F:\Lập trình quản lý\DHLX\DHLX\BUS\bin\Debug\DAO.dll
+F:\Lập trình quản lý\DHLX\DHLX\BUS\bin\Debug\DTO.dll
+F:\Lập trình quản lý\DHLX\DHLX\BUS\bin\Debug\DAO.pdb
+F:\Lập trình quản lý\DHLX\DHLX\BUS\bin\Debug\DTO.pdb
+F:\Lập trình quản lý\DHLX\DHLX\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\Lập trình quản lý\DHLX\DHLX\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Lập trình quản lý\DHLX\DHLX\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\Lập trình quản lý\DHLX\DHLX\BUS\obj\Debug\BUS.dll
+F:\Lập trình quản lý\DHLX\DHLX\BUS\obj\Debug\BUS.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\bin\Debug\DAO.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\bin\Debug\DAO.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\BUS\obj\Debug\BUS.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\bin\Debug\DAO.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\bin\Debug\DAO.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\BUS\obj\Debug\BUS.pdb
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\bin\Debug\BUS.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\bin\Debug\BUS.pdb
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\bin\Debug\DAO.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\bin\Debug\DTO.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\bin\Debug\DAO.pdb
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\bin\Debug\DTO.pdb
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\obj\Debug\BUS.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\BUS\obj\Debug\BUS.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\bin\Debug\BUS.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\bin\Debug\BUS.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\bin\Debug\DAO.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\bin\Debug\DTO.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\bin\Debug\DAO.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\bin\Debug\DTO.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\obj\Debug\BUS.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\BUS\obj\Debug\BUS.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\bin\Debug\BUS.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\bin\Debug\BUS.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\bin\Debug\DAO.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\bin\Debug\DTO.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\bin\Debug\DAO.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\bin\Debug\DTO.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\obj\Debug\BUS.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\BUS\obj\Debug\BUS.pdb

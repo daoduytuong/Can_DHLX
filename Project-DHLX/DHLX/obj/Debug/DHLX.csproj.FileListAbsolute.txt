@@ -1,0 +1,352 @@
+C:\Users\DELL\Desktop\DHLX\DHLX\bin\Debug\DHLX.exe.config
+C:\Users\DELL\Desktop\DHLX\DHLX\bin\Debug\DHLX.exe
+C:\Users\DELL\Desktop\DHLX\DHLX\bin\Debug\DHLX.pdb
+C:\Users\DELL\Desktop\DHLX\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+C:\Users\DELL\Desktop\DHLX\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+C:\Users\DELL\Desktop\DHLX\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DHLX\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DHLX\DHLX\obj\Debug\DHLX.exe
+C:\Users\DELL\Desktop\DHLX\DHLX\obj\Debug\DHLX.pdb
+C:\Users\DELL\Desktop\DHLX\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\DHLX.exe.config
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\DHLX.exe
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\DHLX.pdb
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.exe
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.pdb
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\stdole.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.frmBBKiemDinh.resources
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.csproj.CopyComplete
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.frmChungNhan.resources
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\BUS.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\DAO.dll
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\BUS.pdb
+C:\Users\DELL\Desktop\TaiLieu\LapTrinhQuanLy\DE_TAI\DHLX\DHLX\bin\Debug\DAO.pdb
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\DHLX.exe.config
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\DHLX.exe
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\DHLX.pdb
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\BUS.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\DTO.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\DAO.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\stdole.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\BUS.pdb
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\DTO.pdb
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\bin\Debug\DAO.pdb
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.frmBBKiemDinh.resources
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.frmChungNhan.resources
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.csproj.CopyComplete
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.exe
+C:\Users\tuong\Downloads\DHLX-20210603T000320Z-001\DHLX\DHLX\obj\Debug\DHLX.pdb
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\DHLX.exe.config
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\DHLX.exe
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\DHLX.pdb
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\BUS.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\DAO.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\DTO.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\stdole.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\BUS.pdb
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\DAO.pdb
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\bin\Debug\DTO.pdb
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.frmBBKiemDinh.resources
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.frmChungNhan.resources
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.csproj.CopyComplete
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.exe
+C:\Users\tuong\Downloads\DHLX\DHLX\DHLX\obj\Debug\DHLX.pdb
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\DHLX.exe.config
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\DHLX.exe
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\DHLX.pdb
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\BUS.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.Shared.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\DAO.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\DTO.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\ShockwaveFlashObjects.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\stdole.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\BUS.pdb
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\DAO.pdb
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\bin\Debug\DTO.pdb
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.frmBBKiemDinh.resources
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.frmChungNhan.resources
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.csproj.CopyComplete
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.exe
+F:\Lập trình quản lý\DHLX\DHLX\DHLX\obj\Debug\DHLX.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\DHLX.exe.config
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\DHLX.exe
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\DHLX.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\BUS.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\DAO.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\stdole.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\BUS.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\DAO.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.frmBBKiemDinh.resources
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.frmChungNhan.resources
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.csproj.CopyComplete
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.exe
+C:\Users\DELL\Desktop\anh1\DHLX-Tuong-3h18p\DHLX\obj\Debug\DHLX.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\DHLX.exe.config
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\DHLX.exe
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\DHLX.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\BUS.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\DAO.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\stdole.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\BUS.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\DAO.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.frmBBKiemDinh.resources
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.frmChungNhan.resources
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.csproj.CopyComplete
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.exe
+C:\Users\DELL\Desktop\anh1\DHLX-END\DHLX\obj\Debug\DHLX.pdb
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\DHLX.exe.config
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\DHLX.exe
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\DHLX.pdb
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\BUS.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.Shared.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\DAO.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\DTO.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\ShockwaveFlashObjects.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\stdole.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\BUS.pdb
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\DAO.pdb
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\bin\Debug\DTO.pdb
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.frmBBKiemDinh.resources
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.frmChungNhan.resources
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.csproj.CopyComplete
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.exe
+F:\Lập trình quản lý\END\DHLX-END\DHLX-END\DHLX\obj\Debug\DHLX.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\DHLX.exe.config
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\DHLX.exe
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\DHLX.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\BUS.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.Shared.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\DAO.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\DTO.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\ShockwaveFlashObjects.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\stdole.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\BUS.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\DAO.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\bin\Debug\DTO.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.frmBBKiemDinh.resources
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.frmChungNhan.resources
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.csproj.CopyComplete
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.exe
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX\DHLX\obj\Debug\DHLX.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\DHLX.exe.config
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\DHLX.exe
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\DHLX.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\BUS.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.Shared.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\DAO.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\DTO.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\ShockwaveFlashObjects.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\stdole.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\BUS.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\DAO.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\bin\Debug\DTO.pdb
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.csprojAssemblyReference.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.FrmNhapcanloxo.resources
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.frmBBKiemDinh.resources
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.frmChungNhan.resources
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.Properties.Resources.resources
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.csproj.GenerateResource.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.csproj.CoreCompileInputs.cache
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.csproj.CopyComplete
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.exe
+F:\Lập trình quản lý\END\DHLX-END\Project-DHLX-BC-CuoiKy\DHLX\obj\Debug\DHLX.pdb
